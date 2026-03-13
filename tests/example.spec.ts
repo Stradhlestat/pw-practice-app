@@ -18,4 +18,4 @@ test("get started link", async ({ page }) => {
     page.getByRole("heading", { name: "Installation" }),
   ).toBeVisible();
 });
-// Testar Git-synk mellan datorerna OCH tillbaka
+// från kontoret med jobbdatorn.
